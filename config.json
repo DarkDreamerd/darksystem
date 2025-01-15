@@ -1,0 +1,7 @@
+{
+    "BOT_TOKEN": "NjQyMDkwNzY2NzU5NDkzNjYy.GhQTnL.zlX7IC0mO-kwtm5R0rweRM1IO5kbbJR5dSadQg",
+    "ROLE_RECRUITER": 123456789,  // ID роли рекрутера
+    "CATEGORY_TICKETS": 987654321,  // ID категории для тикетов
+    "CHANNEL_LOGS": 567890123  // ID канала для логов
+  }
+  
